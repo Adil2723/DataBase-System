@@ -2,7 +2,7 @@
 
 <p align="center">
   <img src="https://img.shields.io/badge/Course-DBMS-blue" />
-  <img src="https://img.shields.io/badge/Semester-3rd-orange" />
+  <img src="https://img.shields.io/badge/Semester-4th-orange" />
   <img src="https://img.shields.io/badge/Language-SQL-green" />
 </p>
 

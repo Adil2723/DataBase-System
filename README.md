@@ -80,14 +80,3 @@ It focuses on building a strong understanding of **database design, SQL queries,
 
 ---
 
-## ▶️ How to Run  
-
-### 💻 Using SQL Environment  
-
-1. Install any SQL tool:
-   - MySQL / SQL Server / Oracle / PostgreSQL  
-2. Open your database environment  
-3. Run `.sql` files from this repository  
-4. Execute queries and observe results  
-
----
